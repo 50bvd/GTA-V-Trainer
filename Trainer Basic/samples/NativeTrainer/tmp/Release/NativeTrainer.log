@@ -1,0 +1,13 @@
+﻿  script.cpp
+c:\users\loupl\desktop\llk software\bgg base 1.31_mpgh.net\bgg base 1.31\samples\nativetrainer\MenuFunctions.h(106): warning C4018: '>' : incompatibilité signed/unsigned
+c:\users\loupl\desktop\llk software\bgg base 1.31_mpgh.net\bgg base 1.31\samples\nativetrainer\MenuFunctions.h(150): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1952): note: voir la déclaration de '_snprintf'
+c:\users\loupl\desktop\llk software\bgg base 1.31_mpgh.net\bgg base 1.31\samples\nativetrainer\MenuFunctions.h(378): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1952): note: voir la déclaration de '_snprintf'
+c:\users\loupl\desktop\llk software\bgg base 1.31_mpgh.net\bgg base 1.31\samples\nativetrainer\MenuFunctions.h(383): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1952): note: voir la déclaration de '_snprintf'
+  Génération de code en cours
+c:\users\loupl\desktop\llk software\bgg base 1.31_mpgh.net\bgg base 1.31\inc\natives.h(23): warning C4715: 'PLAYER::SET_PLAYER_WANTED_LEVEL' : les chemins de contrôle ne retournent pas tous une valeur
+  All 207 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  NativeTrainer.vcxproj -> C:\Users\loupl\Desktop\LLK Software\BGG Base 1.31_mpgh.net\BGG Base 1.31\samples\NativeTrainer\bin\Release\Trainer Basics.asi
